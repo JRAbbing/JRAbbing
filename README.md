@@ -1,3 +1,7 @@
+🔭 I’m currently working on AI in Surgery
+I'm currently collaborating between the University of Twente and Meander medical Center
+
+
 <h3 align="center"> Hi there, welcome at my github profile</h3>
 
 <h3 align="left">Connect with me:</h3>
